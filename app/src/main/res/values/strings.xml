@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">I2 Study</string>
+    <string name="logo_alt">I2 Study logo</string>
+    <string name="schedule_alt">schedule_alt</string>
+    <string name="actual_alt">actual_alt</string>
+    <string name="points_alt">points_alt</string>
+    <string name="attendance_alt">attendance_alt</string>
+    <string name="profile_alt">profile_alt</string>
+    <string name="auth_page_hello">Добро пожаловать</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in">Войти</string>
+    <string name="log_out">Выйти</string>
+    <string name="name">Имя:</string>
+    <string name="group_place">Группа:</string>
+    <string name="group">ИС20–2</string>
+    <string name="back">Назад</string>
+    <string name="admin_welcome">Админ панель</string>
+    <string name="admin_add">Добавьте пользователя:</string>
+    <string name="role_hint">Role</string>
+    <string name="reg_in">Зарегистрировать</string>
 </resources>
